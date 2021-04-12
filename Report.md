@@ -45,6 +45,7 @@ Machine learning, is a branch of artificial intelligence, focuses on learning pa
 
 <a name="start"></a>
 ## 2. Getting Started 
+At frist set up your python environment by following the [Deep Reinforcement Learning Nanodegree - dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies)!
 To set up and run the environment please follow the generell instructions in the [README.md](./README.md) and jupyter notebook [Continuous_Control.ipynb](./Collaboration-and-Competition.ipynb). The Jupyter notebook also contains the whole project algorithms.
 
 <a name="algo"></a>
