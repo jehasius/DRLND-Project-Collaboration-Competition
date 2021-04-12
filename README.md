@@ -3,6 +3,7 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Trained Agent"
 [image2]: https://user-images.githubusercontent.com/10624937/42135622-e55fb586-7d12-11e8-8a54-3c31da15a90a.gif "Soccer"
 
+The original repository can be found here [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning)  
 
 # Project 3: Collaboration and Competition
 
@@ -40,6 +41,10 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ### Instructions
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
+
+### Solution in this repository 
+A report for the solved **Tennis** environment can be found here - [report of the solution using MADDPG](/Report.md)
+The solution of the tennis environment with two agents using the MADDPG - Multi Agent Deep Deterministic Policy Gradient algorithm can be found in the [jupyter notebook](./Collaboration-and-Competition.ipynb)
 
 ### (Optional) Challenge: Crawler Environment
 
