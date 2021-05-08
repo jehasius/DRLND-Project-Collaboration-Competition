@@ -25,7 +25,6 @@ The task is episodic, and in order to solve the environment, your agents must ge
 The environment is considered solved, when the average (over 100 episodes) of those **scores** is at least +0.5.
 
 ### Getting Started
-
 At frist set up your python environment by following the [Deep Reinforcement Learning Nanodegree - dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies)!
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
